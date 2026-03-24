@@ -1,6 +1,6 @@
-# Hello, I'm Fathima
+# My First Project
 
-This is my first GitHub repository.
+This project is a simple Python calculator / basic webpage.  
+I created it to practice my coding skills.
 
-I am starting my programming journey, and 
-I will upload all my projects here as I learn.
+More projects will be added soon!
